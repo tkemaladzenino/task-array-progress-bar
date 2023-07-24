@@ -1,0 +1,8 @@
+ body {
+     height: 2000px;
+ }
+
+ #progress-container {
+     position: fixed;
+     width: 20%;
+ }
